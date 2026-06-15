@@ -1,4 +1,7 @@
+![Image](G:\Mi%20unidad\XAFRATECH\OPERACIONES\imagenes-xafratech\logo.png)
+
 # Propuesta Comercial - Dashboard VAS Monitor
+
 ## GoMobile × Xafratech
 
 ---
@@ -28,12 +31,12 @@ Desarrollo e implementación de una plataforma web tipo dashboard para la centra
 
 ## 2. Costo de Desarrollo e Implementación
 
-| Concepto | Valor (COP) |
-|----------|-------------|
-| Desarrollo completo del dashboard | $1,500,000 |
-| Despliegue en GCP | Incluido |
-| Carga de datos históricos | Incluido |
-| Capacitación | Incluido |
+| Concepto                          | Valor (COP)    |
+| --------------------------------- | -------------- |
+| Desarrollo completo del dashboard | $1,500,000     |
+| Despliegue en GCP                 | Incluido       |
+| Carga de datos históricos         | Incluido       |
+| Capacitación                      | Incluido       |
 | **TOTAL DESARROLLO (pago único)** | **$1,500,000** |
 
 **Condiciones de pago:** Pago único por parte de GoMobile a Xafratech.
@@ -42,12 +45,12 @@ Desarrollo e implementación de una plataforma web tipo dashboard para la centra
 
 ## 3. Costo Mensual de Mantenimiento
 
-| Concepto | Valor Mensual (COP) |
-|----------|---------------------|
-| Alojamiento y servidores (GCP) | Incluido |
-| Infraestructura (BD, networking, CI/CD) | Incluido |
-| Soporte técnico y mantenimiento | Incluido |
-| **TOTAL MENSUAL** | **$300,000** |
+| Concepto                                | Valor Mensual (COP) |
+| --------------------------------------- | ------------------- |
+| Alojamiento y servidores (GCP)          | Incluido            |
+| Infraestructura (BD, networking, CI/CD) | Incluido            |
+| Soporte técnico y mantenimiento         | Incluido            |
+| **TOTAL MENSUAL**                       | **$300,000**        |
 
 **Facturación:** Mensual, emitida por Xafratech a GoMobile.
 
@@ -69,28 +72,28 @@ GoMobile, representada por **Jonatan Kostial**, se compromete a:
 
 En caso de que la integración del partner **Digital-X** a la operación de WOM Chile **NO** se concrete dentro del plazo de 1 año:
 
-| Concepto | Valor (COP) |
-|----------|-------------|
+| Concepto                       | Valor (COP)    |
+| ------------------------------ | -------------- |
 | Cobro adicional por desarrollo | **$3,500,000** |
 
 Este valor adicional será facturado por Xafratech a GoMobile como compensación por el costo real del desarrollo inicialmente realizado a tarifa preferencial.
 
 ### 4.3 Resumen de Escenarios
 
-| Escenario | Costo Total Desarrollo (COP) |
-|-----------|------------------------------|
-| Digital-X se integra a WOM Chile dentro de 1 año | $1,500,000 |
+| Escenario                                           | Costo Total Desarrollo (COP)             |
+| --------------------------------------------------- | ---------------------------------------- |
+| Digital-X se integra a WOM Chile dentro de 1 año    | $1,500,000                               |
 | Digital-X NO se integra a WOM Chile dentro de 1 año | $1,500,000 + $3,500,000 = **$5,000,000** |
 
 ---
 
 ## 5. Resumen de Costos
 
-| Tipo | Concepto | Valor (COP) | Frecuencia |
-|------|----------|-------------|------------|
-| Desarrollo | Implementación del dashboard | $1,500,000 | Único |
-| Infraestructura | Mantenimiento, servidores y alojamiento | $300,000 | Mensual |
-| Condicional | Compensación por no integración de Digital-X | $3,500,000 | Único (si aplica) |
+| Tipo            | Concepto                                     | Valor (COP) | Frecuencia        |
+| --------------- | -------------------------------------------- | ----------- | ----------------- |
+| Desarrollo      | Implementación del dashboard                 | $1,500,000  | Único             |
+| Infraestructura | Mantenimiento, servidores y alojamiento      | $300,000    | Mensual           |
+| Condicional     | Compensación por no integración de Digital-X | $3,500,000  | Único (si aplica) |
 
 ---
 
@@ -104,12 +107,12 @@ Este valor adicional será facturado por Xafratech a GoMobile como compensación
 
 ## 7. Firmas
 
-| | GoMobile | Xafratech |
-|--|----------|-----------|
-| **Nombre** | Jonatan Kostial | ___________________ |
-| **Cargo** | ___________________ | ___________________ |
-| **Fecha** | ___________________ | ___________________ |
-| **Firma** | ___________________ | ___________________ |
+|            | GoMobile            | Xafratech           |
+| ---------- | ------------------- | ------------------- |
+| **Nombre** | Jonatan Kostial     | ___________________ |
+| **Cargo**  | ___________________ | ___________________ |
+| **Fecha**  | ___________________ | ___________________ |
+| **Firma**  | ___________________ | ___________________ |
 
 ---
 
